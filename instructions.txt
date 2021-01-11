@@ -1,0 +1,19 @@
+create a github new repository
+clone the repository
+npm init -y
+npm install next
+npm install react react-dom
+in package.json:
+
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "next dev"   <------
+  },
+
+
+create a pages/ dir
+create an index.js
+
+commit changes
+
+
